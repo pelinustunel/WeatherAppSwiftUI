@@ -1,4 +1,9 @@
 # WeatherAppSwiftUI
 
-<img src = "https://github.com/pelinustunel/WeatherAppSwiftUI/assets/95417579/e22c8be3-cdb9-429c-bbcb-8a9fb0982d8e" width = "400">
-<img src = "https://github.com/pelinustunel/WeatherAppSwiftUI/assets/95417579/8b20c2d9-915d-4bb7-ace5-426b07c8b5f3" width = "400">
+<img src = "https://github.com/pelinustunel/WeatherAppSwiftUI/assets/95417579/5519d4f9-5621-4042-95d4-55e6ad7814ec" width = "400">
+<img src = "https://github.com/pelinustunel/WeatherAppSwiftUI/assets/95417579/d75c5578-4139-43d7-8750-98c39994131e" width = "400">
+
+
+![view1](https://github.com/pelinustunel/WeatherAppSwiftUI/assets/95417579/5519d4f9-5621-4042-95d4-55e6ad7814ec)
+![view2](https://github.com/pelinustunel/WeatherAppSwiftUI/assets/95417579/d75c5578-4139-43d7-8750-98c39994131e)
+
